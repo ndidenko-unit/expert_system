@@ -1,0 +1,6 @@
+A + B => Y + Z		# A and B implies Y and Z
+C | D => X | V 		# C or D implies X or V
+
+=ABC
+
+?ZYV
