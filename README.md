@@ -1,7 +1,5 @@
 # expert_system
 
-```ruby expert_system.rb [path/to/file]```<br />
-or<br />
 ```ruby expert_system.rb```  => run [path/to/file]
 
 <h4>File example:</h4>
