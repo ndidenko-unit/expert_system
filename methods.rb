@@ -14,7 +14,7 @@ end
 
 def print_help
   puts '====================================== COMMANDS ======================================='
-  puts '#                                                                                     #'
+  puts '#                           == (ndidenko, osokoliu)  ==                               #'
   puts '#    run   [file path]               : load a file and run it. Reset all facts        #'
   puts '#                                                                                     #'
   puts '#    fact  [letter] = [true/false]   : set the fact statement (not saved !)           #'
